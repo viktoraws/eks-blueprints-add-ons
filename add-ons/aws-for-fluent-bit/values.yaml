@@ -3,7 +3,7 @@ aws-for-fluent-bit:
     create: false
 
   cloudWatch:
-    logStreamName: myapp
+  
   firehose:
 
   kinesis:
