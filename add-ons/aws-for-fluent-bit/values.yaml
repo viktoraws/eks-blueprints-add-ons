@@ -3,7 +3,7 @@ aws-for-fluent-bit:
     create: false
 
   cloudWatch:
-
+    logRetentionDays: 14
   firehose:
 
   kinesis:
